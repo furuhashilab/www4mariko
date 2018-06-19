@@ -1,8 +1,6 @@
 ## Welcome to my site
 
-You can use the [editor on GitHub](https://github.com/furuhashilab/www4mariko/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+thank you for visiting!
 
 ### blogs
 
@@ -30,7 +28,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### about me
 
-青山学院大学地球社会共生学部（GSC）一期生　
+#青山学院大学地球社会共生学部（GSC）1期生　
 群馬県出身
 ちょっとでも興味があるのものには全力で突っ込んでいきます。
 
