@@ -1,10 +1,12 @@
-## Welcome to my site
+## Welcome to MY SITE
 
 thank you for visiting!
 
-### blogs
+### BLOGS
 
 毎週自由テーマでブログを更新しています。
+主に卒論テーマに関するもの。気になったニュースなども。
+
 
 ```markdown
 Syntax highlighted code block
@@ -26,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### about me
+### About Me
 
 青山学院大学地球社会共生学部（GSC）1期生　
 
