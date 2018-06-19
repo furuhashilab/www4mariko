@@ -1,9 +1,10 @@
 ## Welcome to MY SITE
 
-いらっしゃいませ〜！
-Thank you for visiting!
 <!--タグはここから--><a href="http://www.rays-counter.com/"><img src="http://www.rays-counter.com/d411_f6_231/5b28c43192109/" alt="アクセスカウンター" border="0"></a></td></tr><tr><td align="center"><img src="http://www.rays-counter.com/images/counter_01.gif" border="0"><img src="http://www.rays-counter.com/images/counter_02.gif" border="0"><img src="http://www.rays-counter.com/images/counter_03.gif" border="0"><img src="http://www.rays-counter.com/images/counter_04.gif" border="0" ><img src="http://www.rays-counter.com/images/counter_05.gif" border="0"><!--ここまで-->
 
+
+いらっしゃいませ〜！
+Thank you for visiting!
 
 ### BLOGS
 
