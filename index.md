@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my site
 
 You can use the [editor on GitHub](https://github.com/furuhashilab/www4mariko/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### blogs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+毎週自由テーマでブログを更新しています。
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +28,14 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### about me
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/furuhashilab/www4mariko/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+青山学院大学地球社会共生学部（GSC）一期生　
+群馬県出身
+ちょっとでも興味があるのものには全力で突っ込んでいきます。
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Contact
+
+Facebook
