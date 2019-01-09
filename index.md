@@ -19,7 +19,7 @@ Thank you for visiting!
 * 帰宅困難者受け入れ施設…区民以外の帰宅困難者も一定期間生活が出来る場所。
 
 本研究では帰宅困難者向けのデータ整理を行いたい為、OpenStreetMapに入力するデータは
-*避難場所*   *一時避難場所*  *帰宅困難者受け入れ施設*  に限定した。
+**避難場所**     **一時避難場所**   **帰宅困難者受け入れ施設**   に限定した。
 
 OSMのデータの検証に加えて、国土地理院・指定緊急避難所場所データの入力状況、公開状況を確認した。
 
@@ -42,7 +42,19 @@ OSMのデータの検証に加えて、国土地理院・指定緊急避難所�
 
 ### Discussion
 帰宅困難者受け入れ施設のOSMタグを、
-【emergency=assembly_point:unable_to_move=yes】と提案した。帰宅困難者が多く居て、動けない状況を災害と見なし、unable_to_moveをタグに反映した結果である。
+**【emergency=assembly_point:unable_to_move=yes】**と提案した。
+
+帰宅困難者が多く居て、動けない状況を災害と見なし、unable_to_moveをタグに反映した結果である。
+
+
+emergency= で災害時のタグを見てみると、
+* 地震⇨assembly_point:earthquake=yes
+* 火事⇨assembly_point:fire=yes
+* 洪水⇨assembly_point:flood=yes
+* 地滑り⇨assembly_point:landslide=yes
+* 竜巻⇨assembly_point:tornado=yes
+* 津波⇨assembly_point:tsunami=yes
+
 
 
 ### Conclusion
