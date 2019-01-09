@@ -55,6 +55,21 @@ emergency= で災害時のタグを見てみると、
 * 竜巻⇨assembly_point:tornado=yes
 * 津波⇨assembly_point:tsunami=yes
 
+以上のようになっている。
+
+そこで、帰宅困難者受け入れ施設のvalueについて
+* have_difficulty_going_back_home
+* unable_to_return_home
+* having_trouble_returning_home
+
+等の検討を行った。
+
+homeとつけると帰宅のイメージが強くなってしまうが、実際は帰宅のみでなく、目的地に移動途中でその地点から動けなくなった事も表したい為、
+* unabe_to_return
+と決定した。
+
+しかしながら、このタグは今回の研究において独断で決めたものであり、公式タグではない。
+OSMWikiに疑問として投げかけたので、今後Discussionや投票を経て決定される。
 
 
 ### Conclusion
