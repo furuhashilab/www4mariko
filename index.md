@@ -3,18 +3,11 @@
 貴方は<!--タグはここから--><a href="http://www.rays-counter.com/"><img src="http://www.rays-counter.com/d411_f6_231/5b28c43192109/" alt="アクセスカウンター" border="0"></a><img src="http://www.rays-counter.com/images/counter_01.gif" border="0"><img src="http://www.rays-counter.com/images/counter_02.gif" border="0"><img src="http://www.rays-counter.com/images/counter_03.gif" border="0"><img src="http://www.rays-counter.com/images/counter_04.gif" border="0" ><img src="http://www.rays-counter.com/images/counter_05.gif" border="0"><!--ここまで-->　人目の訪問者です
 
 
-！
 Thank you for visiting!
 
-### BLOGS
-
-毎週自由テーマでブログを更新しています。
-主に卒論テーマに関するもの。気になったニュースなども。
+### 帰宅困難者を対象とした避難場所位置情報オープン化の実践ー渋谷区を例としてー
 
 
-```markdown
-https://medium.com/@marikonagano
-```
 
 
 ### About Me
@@ -29,5 +22,4 @@ https://medium.com/@marikonagano
 ### Contact
 
 Facebook
-↓
 https://www.facebook.com/mariko.nagano.92
