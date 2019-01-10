@@ -86,6 +86,31 @@ OSMに渋谷区の避難場所、一時避難場所、帰宅困難者受け入�
 今回、合同研究として取り組んだ区は**渋谷区**並びに**目黒区**であるが、他の区域についても同様の情報入力が不可欠であろう。
 
 四季や自然の豊かさが誇りの日本で、災害に対してより賢く向き合って行くことが全国民に求められている。
+
+
+
+### Reference
+* [地理院地図指定緊急避難場所](https://maps.gsi.go.jp/#14/35.665021/139.695725/&base=std&ls=std%2C0.29%7Cskhb04&disp=11&lcd=skhb04&vs=c1j0h0k0l0u0t0z0r0s0f0&d=vl)
+* [渋谷区防災地図](https://www.city.shibuya.tokyo.jp/assets/detail/files/anzen_bosai_hasai_pdf_bosaimap2017.pdf)
+* [渋谷区避難所施設一覧](https://www.city.shibuya.tokyo.jp/anzen/bosai/hinan/itiran.html)
+* [OSM wiki MAIN PAGE](https://wiki.openstreetmap.org/wiki/JA:Main_Page)
+* [osm/wiki/tag:emergency=assembly_point](https://wiki.openstreetmap.org/wiki/JA:Tag:emergency%3Dassembly_point)
+* [osm/wiki/key:emergency](https://en.wikipedia.org/wiki/Meeting_point)
+* [WikiProject Emergency Cleanup](https://wiki.openstreetmap.org/wiki/JA:WikiProject_Emergency_Cleanup)
+* [Talk:WikiProject Emergency Cleanup](https://wiki.openstreetmap.org/wiki/JA:Talk:WikiProject_Emergency_Cleanup)
+* [JA:Tag:amenity=shelter](https://wiki.openstreetmap.org/wiki/JA:Tag:amenity%3Dshelter)
+* [公共施設の入力例](https://wiki.openstreetmap.org/wiki/JA:Tag:amenity%3Dsocial_centre)
+* [防災白書](http://www.bousai.go.jp/kaigirep/hakusho/h30/honbun/index.html)
+* [避難場所等の図記号の標準化の取り組み](http://www.bousai.go.jp/kyoiku/zukigo/index.html)
+* [防災標識ガイドブック](http://www.bousai.go.jp/kyoiku/zukigo/pdf/symbol_02.pdf)
+* [都立一時滞在施設情報](http://www.bousai.metro.tokyo.jp/smart/kitaku_portal/1005196/1005247.html)
+* [都立一時滞在施設情報一覧](http://www.bousai.metro.tokyo.jp/smart/_res/projects/default_project/_page_/001/005/247/20180401.pdf)
+* [東京都防災マップ](http://map.bousai.metro.tokyo.jp/search_facility_list.html?p1=&p2=51&p3=)
+
+
+
+
+
 ## About Me
 
 長野茉梨子
