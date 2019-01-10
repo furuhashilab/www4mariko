@@ -123,4 +123,4 @@ OSMに渋谷区の避難場所、一時避難場所、帰宅困難者受け入�
 
 ### Contact Me
 
-［Facebook］（https://www.facebook.com/mariko.nagano.92）
+[Facebook]（https://www.facebook.com/mariko.nagano.92）
